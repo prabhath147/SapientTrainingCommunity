@@ -1,0 +1,21 @@
+From a39e9e6e02b4e6dde39925a1d786c78d65ab911f Mon Sep 17 00:00:00 2001
+From: prabhath <penprabh@publicisgroupe.net>
+Date: Thu, 23 Jun 2022 08:48:10 +0530
+Subject: [PATCH 2/4] this is 2nd commit
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 7eaa540..2bc763d 100644
+--- a/index.html
++++ b/index.html
+@@ -1 +1 @@
+-this is index file 2
+\ No newline at end of file
++this is index file 3
+\ No newline at end of file
+-- 
+2.35.1.windows.2
+
